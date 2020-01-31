@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Aleo';
+    src: url('fonts/aleo/aleo-bolditalic-webfont.eot') format('embedded-opentype'),
+         url('fonts/aleo/aleo-bolditalic-webfont.ttf') format('truetype'),
+         url('fonts/aleo/aleo-bolditalic-webfont.woff2') format('woff2'),
+         url('fonts/aleo/aleo-bolditalic-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Aleo';
+    src: url('fonts/aleo/aleo-regular-webfont.eot') format('embedded-opentype'),
+         url('fonts/aleo/aleo-regular-webfont.ttf') format('truetype'),
+         url('fonts/aleo/aleo-regular-webfont.woff2') format('woff2'),
+         url('fonts/aleo/aleo-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DIN';
+    src: url('fonts/din/din-webfont.eot') format('embedded-opentype'),
+         url('fonts/din/din-webfont.ttf') format('truetype'),
+         url('fonts/din/din-webfont.woff2') format('woff2'),
+         url('fonts/din/din-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DIN';
+    src: url('fonts/din/din_bold-webfont.eot') format('embedded-opentype'),
+         url('fonts/din/din_bold-webfont.ttf') format('truetype'),
+         url('fonts/din/din_bold-webfont.woff2') format('woff2'),
+         url('fonts/din/din_bold-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DIN';
+    src: url('fonts/din/din_mediumalternate-webfont.eot') format('embedded-opentype'),
+         url('fonts/din/din_mediumalternate-webfont.ttf') format('truetype'),
+         url('fonts/din/din_mediumalternate-webfont.woff2') format('woff2'),
+         url('fonts/din/din_mediumalternate-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Noway';
+    src: url('fonts/noway/noway-regular-webfont.eot') format('embedded-opentype'),
+         url('fonts/noway/noway-regular-webfont.ttf') format('truetype'),
+         url('fonts/noway/noway-regular-webfont.woff2') format('woff2'),
+         url('fonts/noway/noway-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
